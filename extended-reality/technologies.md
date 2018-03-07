@@ -6,7 +6,7 @@ You can find hardware products official websites but also api, sdk, documentatio
 In the future, I will also add popular software technologies. If a technology is not available yet,
 I put a article teasing it. I also added good ux tutorials about AR/VR/MR.
 
-> If you find this list is not up to date, do not hesitate to propose a technology yourself using [github issues](https://github.com/friedrith/ux-research/issues).
+> If you find this list is not up to date, do not hesitate to propose a technology yourself using [github issues](https://github.com/friedrith/ux-research/issues) or to make a pull request.
 
 ## Hardware headsets
 
