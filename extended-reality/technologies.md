@@ -28,23 +28,32 @@ Augmented reality:
 * [Google card board](https://store.google.com/product/google_cardboard)
 * [Samsung/oculus Gear VR](http://www.samsung.com/fr/gearvr/)
 
-## SDK and Engines only:
+## SDK and Engines:
 
-These technologies are only software for Android, iOS, Windows, Linux or macOS platforms.
+These technologies are software for Android, iOS, Windows, Linux or macOS platforms.
 
-* [Apple ARKit](https://developer.apple.com/arkit/)
-* [Google ARCore](https://developers.google.com/ar/discover/)
+Virtual reality:
 * [Unreal engines](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
 * [Unity 3D](https://unity3d.com)
 * [CryEngine](https://www.cryengine.com/user/registration)
+* [Valve OpenVR kit](https://github.com/ValveSoftware/openvr)
+* [Vavel OpenVR wiki](https://developer.valvesoftware.com/wiki/SteamVR)
+* [VrToolkit](https://vrtoolkit.readme.io/)
+* [HTC VivePort](https://developer.viveport.com/documents/sdk/en/download.html)
+* [Oculus mobile sdk](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/book-intro/)
 
+Augmented reality:
+* [Apple ARKit](https://developer.apple.com/arkit/)
+* [Google ARCore](https://developers.google.com/ar/discover/)
 
 ## Ux
 
 * http://blog.leapmotion.com/ergonomics-vr-design/
 * [Google Cardboards guidelines](https://designguidelines.withgoogle.com/cardboard/)
 * [Occulus Rift best practices](https://developer.oculus.com/design/latest/concepts/book-bp/)
+* [curated list of ressources for vr](https://www.uxofvr.com/)
 
 ## Others links
 
 * [list of free tools](https://makezine.com/2016/03/24/makers-introduction-vr-best-software-tools-free/)
+* [list of Ar sdk](https://thinkmobiles.com/blog/best-ar-sdk-review/)
