@@ -20,6 +20,10 @@ Virtual reality:
 Augmented reality:
 * [Hololens](https://www.microsoft.com/hololens)
 * [(non official) Intel's Vaunt](https://www.theverge.com/2018/2/5/16966530/intel-vaunt-smart-glasses-announced-ar-video)
+* [Magic leap](https://www.magicleap.com/)
+* [Epson Moverio](https://www.epson.fr/products/see-through-mobile-viewer/moverio-bt-300)
+* [DAQRI](https://daqri.com/)
+* [Optinvent](http://www.optinvent.com/)
 
 ### Cardboards
 
@@ -27,6 +31,7 @@ Augmented reality:
 * [Google Daydream](https://vr.google.com/daydream/)
 * [Google card board](https://store.google.com/product/google_cardboard)
 * [Samsung/oculus Gear VR](http://www.samsung.com/fr/gearvr/)
+* [Mattel Viewmaster](http://www.view-master.com/en-us)
 
 ## SDK and Engines:
 
@@ -45,6 +50,8 @@ Virtual reality:
 Augmented reality:
 * [Apple ARKit](https://developer.apple.com/arkit/)
 * [Google ARCore](https://developers.google.com/ar/discover/)
+* [AR.js](https://github.com/jeromeetienne/AR.js)
+
 
 ## Ux
 
