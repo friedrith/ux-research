@@ -8,7 +8,7 @@ As of March 1, 2018, I am currently working on virtual reality, augmented and mi
 
 My first project is about HUDs to see if HUDs like in science-fiction would be efficient in real life.
 
-The hypothesis is: **high detailed HUDs can increase efficiency ?**
+The hypothesis is: **high detailed HUDs can increase efficiency.**
 
 The whole goal of this project will be validate or invalidate this hypothesis.
 
@@ -27,6 +27,7 @@ The research protocol will be:
 * http://www.olednet.com/en/hud-and-hmd-meet-virtual-reality-and-soar/
 * http://www.indjst.org/index.php/indjst/article/viewFile/97234/71205
 * https://www.researchgate.net/publication/262635892_Human_Machine_Interface_for_Prototype_Head_Up_Display_Comparative_study_between_2D_and_VR_Simulation_Results
+
 ## Science-fiction analyze
 
 In user experience research, science-fiction has always been a source of inspiration.
