@@ -9,7 +9,8 @@ As of March 1, 2018, I am currently working on virtual reality, augmented and mi
 
 Innovative user interfaces like virtual reality are fashionable in 2018. But before to put in place
 the necessary means in the companies to integrate this kind of technology in grand public products,
-it is important to analyze if virtual reality brings something more for the users.
+it is important to analyze if virtual reality brings something useful for the users in comparison of
+current technologies like standard flat screens for example.
 
 In virtual reality, there is the term reality. It means that it is built to explore a reality, a world
 in three dimensions. So we need to check if virtual reality is really more efficient thant the best
