@@ -1,5 +1,7 @@
 # HUDs
 
+
+
 My first project is about HUDs to see if HUDs like in science-fiction would be efficient in real life.
 
 The hypothesis is: **high detailed HUDs can increase efficiency.**
@@ -8,10 +10,16 @@ The whole goal of this project will be validate or invalidate this hypothesis. I
 may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
 efficient as possible.
 
+
+## Introduction
+
+
+
+
 The research protocol will be:
 
 * general state of the art study
-* analyze of the science-fiction movies/novels using HUDs
+* general list of the science-fiction movies/novels using HUDs
 * redefinition of the context and the research target
 * iterative study
   * definition of the hypothesis
@@ -39,17 +47,41 @@ talk about the HUD in vehicle.
 In user experience research, science-fiction has always been a source of inspiration. So it may be
 very useful to find
 
+### Movies
 
-* [Iron man case study](https://scifiinterfaces.com/2015/07/01/iron-man-hud-a-breakdown/)
-* http://jayse.tv/v2/?portfolio=hud
-* https://www.hudsandguis.com/
+* Iron Man ([Iron man case study](https://scifiinterfaces.com/2015/07/01/iron-man-hud-a-breakdown/))
+* Oblivion
+* The 5th element
+* Robocop
+* https://scifiinterfaces.com/tag/hud/
+
+* [HUD in movies](https://www.hudsandguis.com/)
+* [Build HUD for movie](http://jayse.tv/v2/?portfolio=hud)
+
+### Novels
+
+* The Expanse (mars marines)
 
 ## Redefinition of the context
 
-"Head Up Display" describes various display devices.
+**Head Up Display** describes various display devices.
 In this project, we will focus on HUDs fixed from a user point of view called Head Mounted Display (HMD).
 It gathers glasses (like Intel's Vaunt), contact lens, headsets (like Hololens or HTC Vive) and
-helmets. However it excludes driving HUDs projected on the windshield for example.
+helmets. But it excludes driving HUDs projected on the windshield for example.
+
+In
+
+HUD for productivity (not gaming)
+
+In virtual reality, you are totally cut from the real world. And most of the users won't spend their days
+inside this virtual world.
+
+I will
+
+* intermediate questions
+
+
+
 
 ## Iterative study
 
@@ -63,3 +95,4 @@ helmets. However it excludes driving HUDs projected on the windshield for exampl
 * https://www.researchgate.net/publication/303519177_Immersion_in_Cardboard_VR_Compared_to_a_Traditional_Head-mounted_Display
 * [very abstract course about VR/AR](https://medium.com/@michaelnaimark/vr-ar-fundamentals-prologue-b7aa3d119087)
 * http://www.olednet.com/en/hud-and-hmd-meet-virtual-reality-and-soar/
+* [HUD resources](https://www.rocketstock.com/video-packs/interface-hud-video-elements/?utm_source=premiumbeat&utm_campaign=2017-premiumbeat-video&utm_medium=video&utm_content=under-post-interface)
