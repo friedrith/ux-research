@@ -16,6 +16,7 @@ Virtual reality:
 * [HTC Vive](https://www.vive.com/)
 * [PlayStation VR](https://www.playstation.com/fr-fr/explore/playstation-vr/)
 * [MI VR](http://www.mi.com/en/mivr/)
+* [Bose audio VR](https://www.vrfocus.com/2018/03/bose-reveals-ar-audio-platform/)
 
 Augmented reality:
 * [Hololens](https://www.microsoft.com/hololens)
@@ -50,6 +51,14 @@ Virtual reality:
 Augmented reality:
 * [Apple ARKit](https://developer.apple.com/arkit/)
 * [Google ARCore](https://developers.google.com/ar/discover/)
+
+## Web technologies
+
+virtual reality:
+* [React VR](https://facebook.github.io/react-vr/)
+* [A-frame](https://aframe.io/)
+
+augmented reality:
 * [AR.js](https://github.com/jeromeetienne/AR.js)
 
 
@@ -64,3 +73,4 @@ Augmented reality:
 
 * [list of free tools](https://makezine.com/2016/03/24/makers-introduction-vr-best-software-tools-free/)
 * [list of Ar sdk](https://thinkmobiles.com/blog/best-ar-sdk-review/)
+* [tutorial VR with web](https://medium.com/@uiuxlab/5-web-vr-frameworks-to-help-developers-build-interesting-design-b4a03197f1f5)
