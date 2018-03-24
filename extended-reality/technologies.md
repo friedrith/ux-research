@@ -47,6 +47,7 @@ Virtual reality:
 * [VrToolkit](https://vrtoolkit.readme.io/)
 * [HTC VivePort](https://developer.viveport.com/documents/sdk/en/download.html)
 * [Oculus mobile sdk](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/book-intro/)
+* [Google VR](https://developers.google.com/vr/)
 
 Augmented reality:
 * [Apple ARKit](https://developer.apple.com/arkit/)
@@ -57,6 +58,7 @@ Augmented reality:
 virtual reality:
 * [React VR](https://facebook.github.io/react-vr/)
 * [A-frame](https://aframe.io/)
+* [WebVR](https://webvr.info)
 
 augmented reality:
 * [AR.js](https://github.com/jeromeetienne/AR.js)

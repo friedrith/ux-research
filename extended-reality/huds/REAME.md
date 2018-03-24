@@ -2,28 +2,40 @@
 
 My first project is about HUDs to see if HUDs like in science-fiction would be efficient in real life.
 
+## Introduction
+
+HUDs, also called Head-Up Displays are a way to enhance the user vision by placing piece of information
+direcly in his vision field. HUDs may be performed using VR or AR.
+
+![hud](assets/hud_2.png)
+
+## Problematic
+
 The hypothesis is: **Detailed HUDs can increase efficiency.**
 
 The whole goal of this project will be validate or invalidate this hypothesis. In fact the answer
 may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
 efficient as possible.
 
-## Introduction
+## Plan
 
-The research protocol will be:
+The research protocol will be splitted in several parts:
 
 * general state of the art study
 * general list of the science-fiction movies/novels using HUDs
-* redefinition of the context and the research target
+* redefinition of the context
 * iterative study
-  * definition of the hypothesis
-  * state of the art study
   * definition of the case study
   * definition of success criteria
   * prototyping
   * evaluation
 
-## Global state of the art
+During the several iterative studies, we will try several technologies from the more basic ones to
+the more powerful ones. We will begin with VR because it is easier to create a
+environment to evaluate the prototype. Then we will switch to AR depending of the progress of the
+technologies.
+
+## General state of the art
 
 * [HUD challenge in 2018 organized by the US governement](https://www.nist.gov/ctl/pscr/funding-opportunities/prizes-challenges/2018-virtual-reality-heads-display-navigation)
 * [HUD driving car simulator (2013)](https://www.gcu.ac.uk/media/gcalwebv2/business/Virtual%20Driving%20Simulator.pdf)
@@ -39,7 +51,7 @@ talk about the HUD in vehicle.
 ## Science-fiction analyze
 
 In user experience research, science-fiction has always been a source of inspiration. So it may be
-very useful to find
+very useful to list science-fiction masterpiece.
 
 ### Movies
 
@@ -52,7 +64,7 @@ very useful to find
 * [HUD in movies](https://www.hudsandguis.com/)
 * [Build HUD for movie](http://jayse.tv/v2/?portfolio=hud)
 
-### Novels
+### Novels### How to make
 
 * The Expanse (mars marines)
 
@@ -68,8 +80,7 @@ gaming.
 
 ## Iterative study
 
-### How to make
-
+* [How to make HUDs visible?](01-how-to-make-huds-visible.md) using web technologies and Google cardboards
 
 ## More links
 
@@ -81,3 +92,4 @@ gaming.
 * [very abstract course about VR/AR](https://medium.com/@michaelnaimark/vr-ar-fundamentals-prologue-b7aa3d119087)
 * http://www.olednet.com/en/hud-and-hmd-meet-virtual-reality-and-soar/
 * [HUD resources](https://www.rocketstock.com/video-packs/interface-hud-video-elements/?utm_source=premiumbeat&utm_campaign=2017-premiumbeat-video&utm_medium=video&utm_content=under-post-interface)
+* http://jov.arvojournals.org/article.aspx?articleid=2389539
