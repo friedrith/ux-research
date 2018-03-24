@@ -1,20 +1,14 @@
 # HUDs
 
-
-
 My first project is about HUDs to see if HUDs like in science-fiction would be efficient in real life.
 
-The hypothesis is: **high detailed HUDs can increase efficiency.**
+The hypothesis is: **Detailed HUDs can increase efficiency.**
 
 The whole goal of this project will be validate or invalidate this hypothesis. In fact the answer
 may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
 efficient as possible.
 
-
 ## Introduction
-
-
-
 
 The research protocol will be:
 
@@ -69,21 +63,12 @@ In this project, we will focus on HUDs fixed from a user point of view called He
 It gathers glasses (like Intel's Vaunt), contact lens, headsets (like Hololens or HTC Vive) and
 helmets. But it excludes driving HUDs projected on the windshield for example.
 
-In
-
-HUD for productivity (not gaming)
-
-In virtual reality, you are totally cut from the real world. And most of the users won't spend their days
-inside this virtual world.
-
-I will
-
-* intermediate questions
-
-
-
+This project will be focused on HUD for hight productivity at work or event in daily life but not for
+gaming.
 
 ## Iterative study
+
+### How to make
 
 
 ## More links
