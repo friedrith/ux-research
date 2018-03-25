@@ -12,17 +12,9 @@ widget. Everything is displayed directly in his field of view.
 ![hud](assets/hud.png)
 
 HUDs are composed of two parts. First of all, there are peripheral information about
-the user state or the global environment. These elements are positioned as fixed on the periphery of the user
+the user state or the global environment. These elements are fixed on the periphery of the user
 point of view. Then they are contextual information layered directly on the screen next to the
-real element they are related to.
-
-## Problematic
-
-The hypothesis is: **Detailed HUDs can increase efficiency.**
-
-The whole goal of this project will be validate or invalidate this hypothesis. In fact the answer
-may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
-efficient as possible and to check if they are more efficient that current ways of displaying information
+real element they are related to. These second ones move relatively to their target.
 
 ## Plan
 
@@ -30,12 +22,10 @@ The research protocol will be splitted in several parts:
 
 * general state of the art study
 * general list of the science-fiction movies/novels using HUDs
-* redefinition of the context
-* iterative study
-  * definition of the case study
-  * definition of success criteria
-  * prototyping
-  * evaluation
+* definition of the problematic
+* Technical prototype
+* Ux evaluation of efficiency
+* optimizations and other Ux evaluations
 
 During the several iterative studies, we will try several technologies from the more basic ones to
 the more powerful ones. We will begin with VR because it is easier to create a
@@ -68,7 +58,7 @@ very useful to list science-fiction masterpiece.
 * Robocop
 * https://scifiinterfaces.com/tag/hud/
 
-* [HUD in movies](https://www.hudsandguis.com/)
+* [analyze of HUD in movies](https://www.hudsandguis.com/)
 * [Build HUD for movie](http://jayse.tv/v2/?portfolio=hud)
 
 ### Novels### How to make
@@ -81,7 +71,13 @@ It is also useful to study video games since the ergonomy is a very strong part 
 
 * Crysis
 
-## Redefinition of the context
+## definition of the problematic
+
+The hypothesis is: **Detailed HUDs can increase efficiency.**
+
+The whole goal of this project will be validate or invalidate this hypothesis. In fact the answer
+may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
+efficient as possible and to check if they are more efficient that current ways of displaying information
 
 **Head Up Display** describes various display devices.
 In this project, we will focus on HUDs fixed from a user point of view called Head Mounted Display (HMD).
@@ -93,9 +89,15 @@ Moreover, we will focus on the peripheral element fixed on the user field of vie
 Finally, this project will be focused on HUD for hight productivity at work or event in daily life but not for
 gaming.
 
-## Iterative study
+## Technical prototype
 
-* [How to build HUDs?](01-how-to-build-huds.md) using web technologies and Google cardboards
+First of all, we need to create a first prototype of the HUD.
+
+* (01-how-to-build-huds.md) using web technologies and Google cardboards
+
+
+## Ux evaluation
+
 
 ## More links
 

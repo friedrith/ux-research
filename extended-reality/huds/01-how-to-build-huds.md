@@ -1,8 +1,9 @@
 # How to build HUDs ?
 
-This first step is to create a first version of the HUD using basic web technologies, google
-cardboard and One Plus 5. In order to achieve this point, we just need to benchmark technologies
-and implement a first prototype.
+The principle is to create a HUD with technologies very polyvalent to work on most of VR and AR
+platforms.
+
+For the first project, we will use web technologies, google cardboard and a One Plus 5.
 
 ## Virtual world
 
@@ -12,12 +13,6 @@ First of all, we create a virtual world where we move in using cardboards.
 We used the welcome setup of A-Frame in order to get a basic scene to test the HUD.
 
 ![Basic scene](assets/2d-environment.png)
-
-I use `live-server` and handle window click to set the fullscreen mode (see the full code [here](benchmark-vr-technologies-A-Frame)).
-So now, as soon as I change a line in the code, the browser in my One Plus 5 embbeded in the Google
-Cardboard is automatically refreshed. However, it leaves the fullscreen mode.
-I only need to click on the button of the Google Cardboard (which
-trigger a click on the browser window) and it comes back in fullscreen mode.
 
 ## Fixed elements
 
@@ -41,7 +36,7 @@ We can positionate these elements like this:
 Google Cardboard don't have a very large field of view (90°) in comparison of real field of view (210°)
 so we can only put the elements at the maximum top, bottom, left and right.
 
-![HUD prototype mark 1](assets/hud_prototype_mark_01_01.png)
+![HUD prototype mark 1](assets/hud_mark_01_01.png)
 
 Notice that the element are semi-transparent. These elements overlay a significant part of the screen
 so transparency help the user to keep a large field of view. Moreover, the semi-transparency is useful
@@ -52,7 +47,6 @@ is to simulate the glass of a helmet as a motorcycle or astronaut helmet. The el
 to the user head. It might make the user sick if he looks at the HUD too often. In the future, maybe we will
 move back the HUD.
 
-
 * https://aframe.io/docs/0.8.0/introduction/
 * [VR headsets field of view](http://virtualrealitytimes.com/2017/03/06/chart-fov-field-of-view-vr-headsets/)
 
@@ -62,6 +56,21 @@ The previous section was about the position of the different elements. With a Go
 One Plus 5, these elements are quite visible. However since they are in the peripheral vision, the
 eye may be not able to really see the details of these components. So we need to try displaying details.
 
+### Text
+
 In order to display details, we will begin by displaying text.
 
+After changing all boxes by a text, I noticed that the labels were not readable since the Google cardboard
+deform the image on the borders of the lens.
+
+So I had to close the HUD to the center of the image in all directions.
+
+Concerning the band on the left and the right, I created 2 bands on each side. The blue band is closer to
+the center and may be readable even if the numbers are smaller. The red one need bigger number to be readble.
+
+![HUD prototype mark 1](assets/hud_mark_01_03.png)
+
+
 * [text in A-Frame](https://aframe.io/docs/0.8.0/components/text.html)
+
+### Colors

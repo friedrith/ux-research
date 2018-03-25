@@ -12,4 +12,4 @@ current standard technologies.
 > Notice that, in all these projects, I am focus on productivity at work and daily life. I love video
 games but I am more interested in finding a way to help more people than only games.
 
-* [HUDs in virtual reality](huds/REAME.md)
+* [HUDs](huds/REAME.md)
