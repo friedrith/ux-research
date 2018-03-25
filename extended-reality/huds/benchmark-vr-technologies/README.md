@@ -15,6 +15,7 @@ virtual reality.
 * :+1: offline examples work
 * fluid
 * compatible with most of VR headsets
+* seems compatible with a lot of headsets and with AR.js
 
 * [A-frame](https://aframe.io/)
 * [HUD](https://github.com/pookage/aframe-hud)

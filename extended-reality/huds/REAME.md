@@ -5,9 +5,16 @@ My first project is about HUDs to see if HUDs like in science-fiction would be e
 ## Introduction
 
 HUDs, also called Head-Up Displays are a way to enhance the user vision by placing piece of information
-direcly in his vision field. HUDs may be performed using VR or AR.
+direcly in his vision field. HUDs may be performed using VR or AR. HUDs are made to facilitate the user
+experience since the user doesn't need anymore to move his head to get the information on a dedicated
+widget. Everything is displayed directly in his field of view.
 
-![hud](assets/hud_2.png)
+![hud](assets/hud.png)
+
+HUDs are composed of two parts. First of all, there are peripheral information about
+the user state or the global environment. These elements are positioned as fixed on the periphery of the user
+point of view. Then they are contextual information layered directly on the screen next to the
+real element they are related to.
 
 ## Problematic
 
@@ -15,7 +22,7 @@ The hypothesis is: **Detailed HUDs can increase efficiency.**
 
 The whole goal of this project will be validate or invalidate this hypothesis. In fact the answer
 may be not totally binary and the purpose will be to find how to optimize the HUDs to make them as
-efficient as possible.
+efficient as possible and to check if they are more efficient that current ways of displaying information
 
 ## Plan
 
@@ -68,6 +75,12 @@ very useful to list science-fiction masterpiece.
 
 * The Expanse (mars marines)
 
+## Video games
+
+It is also useful to study video games since the ergonomy is a very strong part of video game.
+
+* Crysis
+
 ## Redefinition of the context
 
 **Head Up Display** describes various display devices.
@@ -75,12 +88,14 @@ In this project, we will focus on HUDs fixed from a user point of view called He
 It gathers glasses (like Intel's Vaunt), contact lens, headsets (like Hololens or HTC Vive) and
 helmets. But it excludes driving HUDs projected on the windshield for example.
 
-This project will be focused on HUD for hight productivity at work or event in daily life but not for
+Moreover, we will focus on the peripheral element fixed on the user field of view.
+
+Finally, this project will be focused on HUD for hight productivity at work or event in daily life but not for
 gaming.
 
 ## Iterative study
 
-* [How to make HUDs visible?](01-how-to-make-huds-visible.md) using web technologies and Google cardboards
+* [How to build HUDs?](01-how-to-build-huds.md) using web technologies and Google cardboards
 
 ## More links
 
