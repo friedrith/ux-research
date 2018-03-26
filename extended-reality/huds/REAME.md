@@ -20,9 +20,9 @@ real element they are related to. These second ones move relatively to their tar
 
 The research protocol will be splitted in several parts:
 
-* general state of the art study
-* general list of the science-fiction movies/novels using HUDs
-* definition of the problematic
+* General state of the art study
+* General list of the science-fiction movies/novels using HUDs
+* Definition of the problematic
 * Technical prototype
 * Ux evaluation of efficiency
 * optimizations and other Ux evaluations
@@ -71,7 +71,7 @@ It is also useful to study video games since the ergonomy is a very strong part 
 
 * Crysis
 
-## definition of the problematic
+## Definition of the problematic
 
 The hypothesis is: **Detailed HUDs can increase efficiency.**
 
@@ -93,7 +93,7 @@ gaming.
 
 First of all, we need to create a first prototype of the HUD.
 
-* (01-how-to-build-huds.md) using web technologies and Google cardboards
+* [How to build HUDs?](01-how-to-build-huds.md) using web technologies and Google cardboards
 
 
 ## Ux evaluation
