@@ -6,13 +6,14 @@ You can find hardware products official websites but also api, sdk, documentatio
 In the future, I will also add popular software technologies. If a technology is not available yet,
 I put a article teasing it. I also added good ux tutorials about AR/VR/MR.
 
-> If you find this list is not up to date, do not hesitate to propose a technology yourself using [github issues](https://github.com/friedrith/ux-research/issues) or to make a pull request.
+> If you find this list is not up to date, do not hesitate to propose a technology yourself using [github issues](https://github.com/friedrith/ux-research/issues), to make a pull request or by email at thibault.friedrich@gmail.com.
 
 ## Hardware headsets
 
 Virtual reality:
 * [Oculus Rift](https://www.oculus.com/rift/)
 * [Oculus Rift Api](https://developer.oculus.com/)
+* [Oculus Go](https://www.oculus.com/go/)
 * [HTC Vive](https://www.vive.com/)
 * [PlayStation VR](https://www.playstation.com/fr-fr/explore/playstation-vr/)
 * [MI VR](http://www.mi.com/en/mivr/)
