@@ -60,6 +60,7 @@ virtual reality:
 * [React VR](https://facebook.github.io/react-vr/)
 * [A-frame](https://aframe.io/)
 * [WebVR](https://webvr.info)
+* [Babylon.js](https://www.babylonjs.com/)
 
 augmented reality:
 * [AR.js](https://github.com/jeromeetienne/AR.js)
