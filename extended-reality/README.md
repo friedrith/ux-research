@@ -12,4 +12,5 @@ current standard technologies.
 > Notice that, in all these projects, I am focus on productivity at work and daily life. I love video
 games but I am more interested in finding a way to help more people than only games.
 
-* [HUDs](https://github.com/friedrith/hud/REAME.md)
+* [benchmark of VR technologies](./benchmark-vr-technologies.md)
+* [Project to build a HUD](https://github.com/friedrith/hud)
