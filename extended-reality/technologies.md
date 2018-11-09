@@ -26,6 +26,7 @@ Augmented reality:
 * [Epson Moverio](https://www.epson.fr/products/see-through-mobile-viewer/moverio-bt-300)
 * [DAQRI](https://daqri.com/)
 * [Optinvent](http://www.optinvent.com/)
+* [Acer Windows Mixed Reality](https://www.acer.com/ac/en/US/content/series/wmr)
 
 ### Cardboards
 
