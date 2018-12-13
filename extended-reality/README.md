@@ -10,7 +10,8 @@ it is important to analyze if it brings something useful for the users in compar
 current standard technologies.
 
 > Notice that, in all these projects, I am focus on productivity at work and daily life. I love video
-games but I am more interested in finding a way to help more people than only games.
+> games but I am more interested in finding a way to help more people than only games.
 
-* [benchmark of VR technologies](./benchmark-vr-technologies.md)
-* [Project to build a HUD](https://github.com/friedrith/hud)
+- [curated list extended reality technologies](./technologies)
+- [benchmark of VR technologies](./benchmark-vr-technologies)
+- [Project to build a HUD](https://github.com/friedrith/hud)
