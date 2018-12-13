@@ -1,4 +1,4 @@
-# Extended Reality technologies
+# Curated list of Extended Reality technologies
 
 This list tries to centralize all piece of information about AR/VR/MR technologies.
 
