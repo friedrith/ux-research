@@ -41,6 +41,11 @@ Augmented reality:
 - [Samsung/oculus Gear VR](http://www.samsung.com/fr/gearvr/)
 - [Mattel Viewmaster](http://www.view-master.com/en-us)
 
+## Suits
+
+- [Haptx gloves](https://haptx.com/)
+- [Tesla suit](https://teslasuit.io/)
+
 ## SDK and Engines:
 
 These technologies are software for Android, iOS, Windows, Linux or macOS platforms.
