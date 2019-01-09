@@ -21,6 +21,7 @@ Virtual reality:
 - [Bose audio VR](https://www.vrfocus.com/2018/03/bose-reveals-ar-audio-platform/)
 - [Start VR One](https://www.starvr.com/products/): large field of view
 - [Homido](https://homido.com)
+- [Deus Odin](https://deusvr.ru/) discovered at CES '19
 
 Augmented reality:
 
