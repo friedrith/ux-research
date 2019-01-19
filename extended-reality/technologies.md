@@ -35,6 +35,7 @@ Augmented reality:
 - [Optinvent](http://www.optinvent.com/)
 - [Acer Windows Mixed Reality](https://www.acer.com/ac/en/US/content/series/wmr)
 - [Mix](https://www.kickstarter.com/projects/805968217/mix-the-smallest-ar-glasses-with-immersive-96fov?ref=category&ref=discovery): Smallest AR glasses
+- [Nreal](https://www.nreal.ai/)
 
 ### Cardboards
 
