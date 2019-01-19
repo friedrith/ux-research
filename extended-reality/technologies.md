@@ -16,9 +16,11 @@ Virtual reality:
 - [Oculus Rift Api](https://developer.oculus.com/)
 - [Oculus Go](https://www.oculus.com/go/)
 - [HTC Vive](https://www.vive.com/)
+- [HTC Pro Eye](https://www.vive.com/fr/pro-eye/): HTC Headset with eye tracking
+- [HTC Cosmos](https://www.vive.com/fr/cosmos/): HTC with camera included
 - [PlayStation VR](https://www.playstation.com/fr-fr/explore/playstation-vr/)
 - [MI VR](http://www.mi.com/en/mivr/)
-- [Bose audio VR](https://www.vrfocus.com/2018/03/bose-reveals-ar-audio-platform/)
+- [Bose audio VR](https://www.bose.com/en_us/products/wearables/frames.html)
 - [Start VR One](https://www.starvr.com/products/): large field of view
 - [Homido](https://homido.com)
 - [Deus Odin](https://deusvr.ru/) discovered at CES '19
