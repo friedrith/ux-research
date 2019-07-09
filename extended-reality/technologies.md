@@ -13,8 +13,10 @@ I put a article teasing it. I also added good ux tutorials about AR/VR/MR.
 Virtual reality:
 
 - [Oculus Rift](https://www.oculus.com/rift/)
+- [Oculus Rift S](https://www.oculus.com/rift-s/)
 - [Oculus Rift Api](https://developer.oculus.com/)
 - [Oculus Go](https://www.oculus.com/go/)
+- [Oculus Quest](https://www.oculus.com/quest/)
 - [HTC Vive](https://www.vive.com/)
 - [HTC Pro Eye](https://www.vive.com/fr/pro-eye/): HTC Headset with eye tracking
 - [HTC Cosmos](https://www.vive.com/fr/cosmos/): HTC with camera included
@@ -24,6 +26,8 @@ Virtual reality:
 - [Start VR One](https://www.starvr.com/products/): large field of view
 - [Homido](https://homido.com)
 - [Deus Odin](https://deusvr.ru/) discovered at CES '19
+- [HP reverb](https://www8.hp.com/us/en/workstations/mixed-reality-headset/index.html?jumpid=in_r11260_us/en/psg/vr_ready_workstations/productmodule-mixed-reality-headset-learn-more)
+- [Acer OJO 500](https://www.acer.com/ac/en/US/content/series/acerojo500)
 
 Augmented reality:
 
@@ -36,6 +40,9 @@ Augmented reality:
 - [Acer Windows Mixed Reality](https://www.acer.com/ac/en/US/content/series/wmr)
 - [Mix](https://www.kickstarter.com/projects/805968217/mix-the-smallest-ar-glasses-with-immersive-96fov?ref=category&ref=discovery): Smallest AR glasses
 - [Nreal](https://www.nreal.ai/)
+- [ASUS Windows Mixed Reality Headset (HC102)](https://www.asus.com/us/Headset/ASUS-Windows-Mixed-Reality-Headset-HC102)
+- [Samsung HMD Odyssey - Windows Mixed Reality Headset](https://www.samsung.com/us/computing/hmd/windows-mixed-reality/xe800zaa-hc1us-xe800zaa-hc1us/)
+- [Daqri Smart glasses](https://daqri.com/products/smart-glasses/)
 
 ### Cardboards
 
@@ -73,14 +80,14 @@ Augmented reality:
 
 ## Web technologies
 
-virtual reality:
+Virtual reality:
 
 - [React 360](https://facebook.github.io/react-360/)
 - [A-frame](https://aframe.io/)
 - [WebVR](https://webvr.info)
 - [Babylon.js](https://www.babylonjs.com/)
 
-augmented reality:
+Augmented reality:
 
 - [AR.js](https://github.com/jeromeetienne/AR.js)
 
