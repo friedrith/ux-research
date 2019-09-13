@@ -12,6 +12,7 @@ I put a article teasing it. I also added good ux tutorials about AR/VR/MR.
 
 Virtual reality:
 
+- [Valve Index](https://store.steampowered.com/valveindex)
 - [Oculus Rift](https://www.oculus.com/rift/)
 - [Oculus Rift S](https://www.oculus.com/rift-s/)
 - [Oculus Rift Api](https://developer.oculus.com/)
@@ -31,6 +32,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Apple AR glasses](https://www.macworld.co.uk/news/apple/apple-ar-glasses-3601447/)
 - [Hololens](https://www.microsoft.com/hololens)
 - [(non official) Intel's Vaunt](https://www.theverge.com/2018/2/5/16966530/intel-vaunt-smart-glasses-announced-ar-video)
 - [Magic leap](https://www.magicleap.com/)
