@@ -34,6 +34,7 @@ Virtual reality:
 Augmented reality:
 
 - [Apple AR glasses](https://www.macworld.co.uk/news/apple/apple-ar-glasses-3601447/)
+- [Facebook AR glasses](https://www.theverge.com/2019/9/25/20883706/facebook-ar-glasses-prototypes-live-maps-announce-oc6)
 - [Hololens](https://www.microsoft.com/hololens)
 - [(non official) Intel's Vaunt](https://www.theverge.com/2018/2/5/16966530/intel-vaunt-smart-glasses-announced-ar-video)
 - [Magic leap](https://www.magicleap.com/)
