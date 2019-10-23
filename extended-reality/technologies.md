@@ -30,6 +30,7 @@ Virtual reality:
 - [HP reverb](https://www8.hp.com/us/en/workstations/mixed-reality-headset/index.html?jumpid=in_r11260_us/en/psg/vr_ready_workstations/productmodule-mixed-reality-headset-learn-more)
 - [Acer OJO 500](https://www.acer.com/ac/en/US/content/series/acerojo500)
 - [Mirage Solo](https://www.lenovo.com/us/en/daydreamvr) with daydream
+- [Varjo VR-2](https://varjo.com/products/vr-2/)
 
 Augmented reality:
 
